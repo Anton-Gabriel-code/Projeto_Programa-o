@@ -11,14 +11,14 @@ public class Main {
         int opcao;
 
         do {
-            System.out.println("\n ---Menu---");
+            System.out.println("\n ---Banco Java---");
             System.out.println("1 - Criar conta");
             System.out.println("2 - Listar contas");
             System.out.println("3 - Depositar");
             System.out.println("4 - Ver Saldo");
             System.out.println("5 - Sacar");
             System.out.println("6 - Transferir");
-            System.out.println("7 - Sair");
+            System.out.println("0 - Sair");
             System.out.print("Escolha uma opção: ");
             opcao = sc.nextInt();
 
