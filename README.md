@@ -15,7 +15,7 @@
 
 > Sistema Bancário - Java
 ##### Explicação de como Executar o Código:
-Baixe o código zip e tenha uma IDE instalada na máquina que consiga compilar o código em Java, vá até o arquivo zip e extraia  a pasta que está com o código 'src', e abra essa pasta com o terminal. Assim que abrir terá que digitar, javac *.java, para que o código .java, seja compilado da pasta atual de uma vez. Após isso digitará, java Main, e o código será executado.
+Baixe o código zip e tenha o JDK instalado na máquina que consiga compilar o código em Java, vá até o arquivo zip e extraia  a pasta que está com o código 'src', e abra essa pasta com o terminal. Assim que abrir terá que digitar, javac *.java, para que o código .java, seja compilado da pasta atual de uma vez. Após isso digitará, java Main, e o código será executado.
 
 ## Linguagens Utilizadas no Repositório:
 > Java
