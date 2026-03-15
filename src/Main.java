@@ -52,9 +52,9 @@ public class Main {
                     }
                     break;
                 case 6:
-                    transferir(); 
+                    transferir();
                     break;
-                case 7:
+                case 0:
                     System.out.println("Saindo...");
                     break;
                 default:
@@ -62,7 +62,7 @@ public class Main {
                     break;
             }
 
-        } while (opcao != 7);
+        } while (opcao != 0);
 
         sc.close();
     }
