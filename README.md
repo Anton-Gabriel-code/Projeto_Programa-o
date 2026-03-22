@@ -7,7 +7,7 @@
 >
 > Disciplina: Projeto de Programação
 >
-> Professor: Amaury Nogeuira Neto
+> Professor: Amaury Nogueira Neto
 > 
 ### Exercícios práticos da matéria de Projeto de Programação
 
