@@ -13,11 +13,6 @@ public class Funcionario implements Autenticavel {
         this.tentativasFalhas = 0;
         this.bloqueado = false;
     }
-
-    /**
-     * Verifica a senha. Bloqueia a conta após 3 tentativas erradas.
-     */
-    @Override
     public boolean autenticar(String senha) {
         if (bloqueado) {
             System.out.println("Conta bloqueada após " + MAX_TENTATIVAS + " tentativas inválidas.");
